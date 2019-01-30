@@ -1,0 +1,22 @@
+/* bloc page */
+
+#blocpage{
+	width: 50%;
+	margin:auto;
+	background-color: #FEFEFE;
+	color: #454545;
+	font-size: 115%;
+
+}
+
+/* liste */
+
+#none ul li {
+	list-style-type:none;
+
+}
+
+#none {
+	
+}
+
